@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Flatbook",
+    "description": "App name."
+  },
+  "appDesc": {
+    "message": "Additional functionality for Facebook.",
+    "description":"App description."
+  }
+}
